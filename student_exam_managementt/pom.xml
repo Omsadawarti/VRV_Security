@@ -12,7 +12,7 @@
 	<artifactId>role-based-auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>role-based-auth</name>
-	<description>This project is a Spring Boot-based authentication and authorization system that implements Role-Based Access Control (RBAC). It enables users to register, log in, and log out securely using JWT tokens for session management. The application assigns specific roles (e.g., Admin, User, Moderator) to users and controls access to resources based on these roles. The system ensures secure authentication and authorization while maintaining a scalable architecture for managing user roles and permissions.</description>
+	<description>This is a Student Examination Management System built using Spring Boot with Role-Based Authentication. The application allows users to register, log in, and access different roles (Admin, Moderator, User) to manage and take exams. The project implements JWT-based authentication and role-based access control to ensure secure operations.</description>
 	<url/>
 	<licenses>
 		<license/>
